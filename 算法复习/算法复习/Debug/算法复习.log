@@ -1,0 +1,4 @@
+﻿  回溯复习.cpp
+D:\c++\算法复习\算法复习\回溯复习.cpp(268,16): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\c++\算法复习\算法复习\回溯复习.cpp(302,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  算法复习.vcxproj -> D:\c++\算法复习\Debug\算法复习.exe
